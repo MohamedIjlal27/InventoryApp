@@ -28,3 +28,13 @@ The Transaction History
 
 It can also be viewed in this tab, - Product transacted, Number of items, their price and the type of transaction (Buy/Sell) is displayed in tabular form.
 Screenshots
+
+![image](https://github.com/MohamedIjlal27/InventoryApp/assets/150043878/3d5bede7-a86f-489e-9c62-479582ce09e2)
+
+
+
+
+
+
+
+
