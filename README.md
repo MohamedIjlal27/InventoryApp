@@ -30,6 +30,20 @@ It can also be viewed in this tab, - Product transacted, Number of items, their 
 Screenshots
 
 ![image](https://github.com/MohamedIjlal27/InventoryApp/assets/150043878/3d5bede7-a86f-489e-9c62-479582ce09e2)
+![image](https://github.com/MohamedIjlal27/InventoryApp/assets/150043878/28176b91-f761-4827-9b6d-c0fe684e9f99)
+![image](https://github.com/MohamedIjlal27/InventoryApp/assets/150043878/e24bf50f-4f65-4a50-80bc-c98d13e64d16)
+![image](https://github.com/MohamedIjlal27/InventoryApp/assets/150043878/5f28ace6-1bde-4139-9687-3a3913b5cfdc)
+![image](https://github.com/MohamedIjlal27/InventoryApp/assets/150043878/873a1dbe-f0b0-4d19-ba4f-4db86159a7f2)
+![image](https://github.com/MohamedIjlal27/InventoryApp/assets/150043878/a1ea160f-0fd6-40fa-9304-01c109bac36f)
+![image](https://github.com/MohamedIjlal27/InventoryApp/assets/150043878/d7547760-3a91-478a-812b-90f31fa87bc1)
+![image](https://github.com/MohamedIjlal27/InventoryApp/assets/150043878/cf510168-29dc-4e75-a280-21e79076dcdd)
+
+
+
+
+
+
+
 
 
 
