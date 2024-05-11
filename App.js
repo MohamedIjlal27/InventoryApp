@@ -1,3 +1,4 @@
+import 'react-native-gesture-handler';
 import React from 'react';
 import {StatusBar} from 'react-native';
 import Icon_Feather from 'react-native-vector-icons/Feather';
@@ -24,9 +25,11 @@ import RegisterScreen from './src/screens/RegisterScreen';
 const AppStack = createStackNavigator();
 const Drawer = createDrawerNavigator();
 const EmployeeStack = createStackNavigator();
+import { NativeBaseProvider } from 'native-base';
 
 const App = ({navigation}) => {
   return (
+    <NativeBaseProvider>
     <NavigationContainer theme={MyTheme}>
       <AppStack.Navigator headerMode={null} initialRouteName="SplashScreen">
         <AppStack.Screen
@@ -71,6 +74,7 @@ const App = ({navigation}) => {
         />
       </AppStack.Navigator>
     </NavigationContainer>
+    </NativeBaseProvider>
   );
 };
 
